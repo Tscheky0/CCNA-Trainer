@@ -88,8 +88,3 @@ Fachlich hat mich das Schreiben der Fragen tiefer in den CCNA Stoff gebracht als
 ## Hinweis
 
 Dies ist ein privates Lernprojekt und steht in keiner Verbindung zu Cisco Systems. CCNA und Cisco sind Marken der Cisco Systems, Inc. Die Fragen sind selbst formuliert und keine echten Prüfungsfragen.
-
-## Autor
-
-**Tscheky**
-IT Netzwerktechnik Ausbildung am Schulungszentrum Fohnsdorf, Steiermark
